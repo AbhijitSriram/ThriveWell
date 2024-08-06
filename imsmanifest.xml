@@ -1,0 +1,138 @@
+<?xml version="1.0" standalone="no" ?>
+<manifest identifier="egRWOpib0OOKghNxwI_9RwcREPc8Q4MVC_NBU8YD" version="1.3"
+  xmlns="http://www.imsglobal.org/xsd/imscp_v1p1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3"
+  xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3"
+  xmlns:imsss="http://www.imsglobal.org/xsd/imsss"
+  xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd
+                      http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd
+                      http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd
+                      http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>2004 4th Edition</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="B0">
+    <organization identifier="B0" adlseq:objectivesGlobalToSystem="false">
+      <title>ThriveWell Training Program Module 6: Processing Trauma after Grief/Loss</title>
+      <item identifier="i1" identifierref="r1" isvisible="true">
+        <title>ThriveWell Training Program Module 6: Processing Trauma after Grief/Loss</title>
+        <adlcp:dataFromLMS>eyJjcHYiOiJDX05CVThZRCIsInJsZCI6ZmFsc2V9</adlcp:dataFromLMS>
+        <imsss:sequencing>
+          <imsss:deliveryControls tracked="true" completionSetByContent="true" objectiveSetByContent="true"/>
+        </imsss:sequencing>
+      </item>
+      <metadata>
+        <adlcp:location>metadata.xml</adlcp:location>
+      </metadata>
+      <imsss:sequencing>
+        <imsss:controlMode choice="true" flow="true"/>
+      </imsss:sequencing>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="r1" type="webcontent" adlcp:scormType="sco" href="scormdriver/indexAPI.html">
+      <!-- SCORMDRIVER STUFF -->
+      <file href="scormdriver/indexAPI.html" />
+      <file href="scormdriver/preloadIntegrity.js" />
+      <file href="scormdriver/driverOptions.js" />
+      <file href="scormdriver/AICCComm.html" />
+      <file href="scormdriver/auto-scripts/AutoBookmark.js" />
+      <file href="scormdriver/auto-scripts/AutoCompleteSCO.js" />
+      <file href="scormdriver/auto-scripts/CourseExit.js" />
+      <file href="scormdriver/blank.html" />
+      <file href="scormdriver/goodbye.html" />
+      <file href="scormdriver/scormdriver.js" />
+      <file href="scormdriver/browsersniff.js" />
+
+      <!-- RUNTIME COMMON STUFF -->
+      <file href="scormcontent/index.html" />
+
+      
+        <file href="scormcontent/lib/fonts/icomoon.ttf"/>
+        <file href="scormcontent/lib/fonts/icomoon.woff"/>
+
+        <file href="scormcontent/lib/icomoon.css"/>
+        <file href="scormcontent/lib/player-0.0.11.min.js"/>
+        <file href="scormcontent/lib/lzwcompress.js"/>
+      
+
+      <!-- FRONTEND BUNDLE ASSETS -->
+      <file href="scormcontent/lib/rise/3e087219.js" />
+<file href="scormcontent/lib/rise/472f74c2.css" />
+<file href="scormcontent/lib/rise/e34bf6bb.js" />
+<file href="scormcontent/lib/rise/f9b48e9e.css" />
+<file href="scormcontent/lib/rise/4d95abd4.js" />
+<file href="scormcontent/lib/rise/92e0d0dc.js" />
+<file href="scormcontent/lib/rise/daebe3b0.js" />
+<file href="scormcontent/lib/mondrian/entry.js" />
+<file href="scormcontent/lib/mondrian/cee15070.js" />
+<file href="scormcontent/lib/mondrian/b5f521c8.js" />
+<file href="scormcontent/lib/mondrian/08509366.js" />
+<file href="scormcontent/lib/mondrian/c16e7dd3.js" />
+<file href="scormcontent/lib/mondrian/d7134136.js" />
+<file href="scormcontent/lib/mondrian/56ed4fc1.js" />
+<file href="scormcontent/lib/mondrian/617890ed.js" />
+<file href="scormcontent/lib/mondrian/b1be0899.js" />
+
+
+      <!-- RUNTIME CONTENT STUFF -->
+      <file href="scormcontent/lib/fonts/Lato-Black.woff" />
+<file href="scormcontent/lib/fonts/Lato-Italic.woff" />
+<file href="scormcontent/lib/fonts/Lato-Bold.woff" />
+<file href="scormcontent/lib/fonts/Lato-Regular.woff" />
+<file href="scormcontent/lib/fonts/Lato-Light.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Black.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Italic.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Bold.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Regular.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Light.woff" />
+<file href="scormcontent/assets/small.png" />
+<file href="scormcontent/assets/1iUOTr/small.png" />
+<file href="scormcontent/assets/J4Y9jT/small.png" />
+<file href="scormcontent/assets/U8VK_jZQYXPifc5O.jpg" />
+<file href="scormcontent/assets/stock-image.jpg" />
+<file href="scormcontent/assets/qmF4gM/mountains.jpg" />
+<file href="scormcontent/assets/mos_3_003%20%281080p%29.mp4" />
+<file href="scormcontent/assets/mos_3_003%20%281080p%29.png" />
+<file href="scormcontent/assets/MOS%203%20003.vtt" />
+<file href="scormcontent/assets/stock-image.png" />
+<file href="scormcontent/assets/rT8sIE/stock-image.png" />
+<file href="scormcontent/assets/NDLUKk/stock-image.jpg" />
+<file href="scormcontent/assets/EFYSw1/stock-image.png" />
+<file href="scormcontent/assets/CcZeHn/stock-image.jpg" />
+<file href="scormcontent/assets/H82s0l/stock-image.jpg" />
+<file href="scormcontent/assets/9_mFMs/stock-image.jpg" />
+<file href="scormcontent/assets/QiZ31w/stock-image.jpg" />
+<file href="scormcontent/assets/EPdBTZ/stock-image.jpg" />
+<file href="scormcontent/assets/vTylq1/stock-image.jpg" />
+<file href="scormcontent/assets/W94ouY/hotel.jpg" />
+<file href="scormcontent/assets/tW1VV5/stock-image.jpg" />
+<file href="scormcontent/assets/-4ZBc4/stock-image.jpg" />
+<file href="scormcontent/assets/Gratitude%20Journal-2-4.pdf" />
+<file href="scormcontent/assets/rJQmBn/stock-image.jpg" />
+<file href="scormcontent/assets/noprocess_Header7.png" />
+<file href="scormcontent/assets/RAvunc6QFeUDxQS-_520_full.png" />
+<file href="scormcontent/assets/NrePVtDcRdXOBSbb_556_full.png" />
+<file href="scormcontent/assets/XGLXTkIiCHyJhnOH_557_full.png" />
+<file href="scormcontent/assets/GvcQSojzsezWW1M-_565_full.png" />
+<file href="scormcontent/assets/FGZPs_pvTK0hWRUG_529_full.png" />
+<file href="scormcontent/assets/pGZmRGAN2TuKTypA_467_full.png" />
+<file href="scormcontent/assets/0quQpGm6lxKT1YNw_517_full.png" />
+<file href="scormcontent/assets/in7-R0q74qDbSK-3_541_full.png" />
+<file href="scormcontent/assets/hAcjCbr1RWvdGRhq_466_full.png" />
+<file href="scormcontent/assets/zfVkoYGOZ8V35vz8_521_full.png" />
+<file href="scormcontent/assets/81q1lHJDcgE-3FLZ_574_full.png" />
+<file href="scormcontent/assets/U2d4qb58gBzK_EuB_530_full.png" />
+<file href="scormcontent/assets/N5f5C5TaNXKr1VLZ_538_full.png" />
+<file href="scormcontent/assets/4ojaNTuUuCH4mrES_575_full.png" />
+<file href="scormcontent/assets/uT5qg7IIC06yu4lA_539_full.png" />
+<file href="scormcontent/assets/DRb9RAyoZbUhWQ_d_544_full.png" />
+
+      <file href="scormcontent/locales/und.js" />
+
+    </resource>
+  </resources>
+</manifest>
